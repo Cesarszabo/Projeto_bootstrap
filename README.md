@@ -1,2 +1,2 @@
-# Projeto_bootbash
-1º projeto bootcamp DIO
+# Projeto_bootstrap
+1º projeto com bootstrap no bootcamp DIO
